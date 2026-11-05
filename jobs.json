@@ -1,0 +1,10 @@
+{
+  "updated": null,
+  "jobs": [],
+  "sources": {
+    "Setup": {
+      "ok": false,
+      "message": "Waiting for the first scheduled or manual collection. No sample vacancies are shown."
+    }
+  }
+}
